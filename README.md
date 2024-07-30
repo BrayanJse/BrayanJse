@@ -13,12 +13,6 @@ Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** con experiencia 
 - **Programación y Desarrollo Web**: Experiencia con HTML, CSS, JavaScript, y más.
 - **Diseño Audiovisual**: Creación de contenido visual con enfoque creativo.
 
-## Aprendizaje Continuo
-
-Actualmente, estoy mejorando mi **inglés** para seguir creciendo profesionalmente.
-
-¡Gracias por visitar mi perfil! Si te interesa conectar o colaborar, no dudes en contactarme.
-
 
 
 
