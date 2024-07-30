@@ -13,11 +13,12 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 - **Web Development**: Experienced in HTML, CSS, JavaScript, and related technologies.
 - **Audiovisual Design**: Skilled in creating high-quality visual content.
 
+<!--
 ## Continuous Learning
 
 Currently improving my **English** skills to enhance my professional growth.
 
-Thanks for checking out my profile! Feel free to reach out if you'd like to connect or collaborate.
+Thanks for checking out my profile! Feel free to reach out if you'd like to connect or collaborate. -->
 
 
 
