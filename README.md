@@ -1,17 +1,23 @@
 # Hi there 👋
 
-Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** con experiencia en proyectos autónomos y para clientes. Me especializo en el desarrollo web y la creación de contenido audiovisual.
+I’m a **Software Development and Analysis (ADSO) student** with hands-on experience in autonomous and client projects. I specialize in web development and audiovisual content creation.
 
-## Más sobre mí
+## More about me:
 
-- 📽 **Transmisiones en Twitch**: Comparto conocimientos sobre programación y desarrollo en mis transmisiones en vivo.
-- 🚴‍♀️ **MTB Libre**: Disfruto del Mountain Bike como actividad recreativa.
-- 📷 **Fotografía y Diseño**: Apasionado por capturar momentos y el diseño visual.
+- 📽 **Programming Streams**: I occasionally stream programming sessions on Twitch.
+- 🚴‍♀️ **MTB Enthusiast**: I enjoy Mountain Biking as a personal hobby.
+- 📷 **Photography and Design**: Passionate about capturing moments and visual design.
 
-## Habilidades
+## Skills
 
-- **Programación y Desarrollo Web**: Experiencia en HTML, CSS, JavaScript, y tecnologías relacionadas.
-- **Diseño Audiovisual**: Creación de contenido visual con enfoque en la calidad y creatividad.
+- **Web Development**: Experienced in HTML, CSS, JavaScript, and related technologies.
+- **Audiovisual Design**: Skilled in creating high-quality visual content.
+
+## Continuous Learning
+
+Currently improving my **English** skills to enhance my professional growth.
+
+Thanks for checking out my profile! Feel free to reach out if you'd like to connect or collaborate.
 
 
 
