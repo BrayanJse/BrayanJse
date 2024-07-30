@@ -1,17 +1,17 @@
 # Hi there 👋
 
-Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** con experiencia en proyectos autónomos y para clientes. Mi carrera se complementa con una pasión por la fotografía, el diseño y el MTB libre.
+Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** con experiencia en proyectos autónomos y para clientes. Me especializo en el desarrollo web y la creación de contenido audiovisual.
 
 ## Más sobre mí
 
-- 📽 **Transmisiones en Twitch**: Realizo transmisiones de programación y desarrollo.
-- 🚴‍♀️ **MTB Libre**: Disfruto del Mountain Bike en la naturaleza.
-- 📷 **Fotografía y Diseño**: Apasionado por capturar momentos y crear contenido visual.
+- 📽 **Transmisiones en Twitch**: Comparto conocimientos sobre programación y desarrollo en mis transmisiones en vivo.
+- 🚴‍♀️ **MTB Libre**: Disfruto del Mountain Bike como actividad recreativa.
+- 📷 **Fotografía y Diseño**: Apasionado por capturar momentos y el diseño visual.
 
 ## Habilidades
 
-- **Programación y Desarrollo Web**: Experiencia con HTML, CSS, JavaScript, y más.
-- **Diseño Audiovisual**: Creación de contenido visual con enfoque creativo.
+- **Programación y Desarrollo Web**: Experiencia en HTML, CSS, JavaScript, y tecnologías relacionadas.
+- **Diseño Audiovisual**: Creación de contenido visual con enfoque en la calidad y creatividad.
 
 
 
