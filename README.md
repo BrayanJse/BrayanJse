@@ -1,24 +1,24 @@
 # Hi there 👋
 
-Soy un **Estudiante de Análisis y Desarrollo de Software (ADSO)** con una sólida experiencia en proyectos autónomos y para clientes. A lo largo de mi carrera, he desarrollado habilidades en programación y diseño, complementadas con una pasión por la fotografía y el MTB libre.
+Soy estudiante de **Análisis y Desarrollo de Software (ADSO)** con experiencia en proyectos autónomos y para clientes. Mi carrera se complementa con una pasión por la fotografía, el diseño y el MTB libre.
 
 ## Más sobre mí
 
-- 📽 **Transmisiones en Twitch**: Realizo transmisiones de programación y desarrollo en Twitch, donde comparto mis conocimientos y proyectos en tiempo real.
-- 🚴‍♀️ **MTB Libre**: Practico Mountain Bike de manera libre, disfrutando de la aventura y la conexión con la naturaleza.
-- 📷 **Fotografía y Diseño**: Soy un apasionado de la fotografía y el diseño, siempre en busca de capturar momentos únicos y crear contenido visual impactante.
+- 📽 **Transmisiones en Twitch**: Realizo transmisiones de programación y desarrollo.
+- 🚴‍♀️ **MTB Libre**: Disfruto del Mountain Bike en la naturaleza.
+- 📷 **Fotografía y Diseño**: Apasionado por capturar momentos y crear contenido visual.
 
-## Habilidades y Experiencia
+## Habilidades
 
-- **Programación**: Experiencia en diversos lenguajes y tecnologías adquirida a través de proyectos personales y profesionales.
-- **Desarrollo Web**: Desarrollo de sitios web y aplicaciones utilizando HTML, CSS, JavaScript, y frameworks modernos.
-- **Diseño Audiovisual**: Creación de contenido visual y audiovisual con un enfoque en la calidad y la creatividad.
+- **Programación y Desarrollo Web**: Experiencia con HTML, CSS, JavaScript, y más.
+- **Diseño Audiovisual**: Creación de contenido visual con enfoque creativo.
 
 ## Aprendizaje Continuo
 
-Actualmente, estoy mejorando mis habilidades en **inglés**, ya que considero que es esencial para mi crecimiento profesional y personal.
+Actualmente, estoy mejorando mi **inglés** para seguir creciendo profesionalmente.
 
-¡Gracias por visitar mi perfil! Si tienes algún proyecto interesante o simplemente quieres conectar, no dudes en ponerte en contacto conmigo.
+¡Gracias por visitar mi perfil! Si te interesa conectar o colaborar, no dudes en contactarme.
+
 
 
 
