@@ -2,13 +2,13 @@
 
 I’m a **Software Development and Analysis (ADSO) student** with hands-on experience in autonomous and client projects. I specialize in web development and audiovisual content creation.
 
-## More about me:
+### More about me:
 
 - 📽 **Programming Streams**: I occasionally stream programming sessions on [Twitch](https://twitch.tv/brayanjse).
 - 🚴‍♀️ **MTB Enthusiast**: I enjoy Mountain Biking as a personal hobby.
 - 📷 **Photography and Design**: Passionate about capturing moments and visual design.
 
-## Skills
+### Skills
 
 - **Web Development**: Experienced in HTML, CSS, JavaScript, and related technologies.
 - **Audiovisual Design**: Skilled in creating high-quality visual content.
