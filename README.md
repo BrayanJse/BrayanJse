@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Estudiante de Análisis y Desarrollo de Software, previamente he adquirido experiencia con proyectos propios y otros de clientes (de manera autonoma).
+
+# Más sobre mi:
+- 📽 A veces suelo realizar transmisiones de programación en Twitch.
+- 🚴‍♀️ Práctico el MTB de manera libre.
+- 📷 Soy apasionado por la fotografía y el diseño.
+
 <!--
 **BrayanJse/BrayanJse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
