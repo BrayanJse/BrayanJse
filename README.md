@@ -2,9 +2,6 @@
 
 I’m a **Software Development and Analysis (ADSO) student** with hands-on experience in autonomous and client projects. I specialize in web development and audiovisual content creation.
 
-![image](https://github.com/user-attachments/assets/771154c4-e612-4da9-95a6-5916e5d68b28)
-
-
 <div align="center">
   <a href=""><img src="./images/image.png" alt="banner image"></a>
 </center>
