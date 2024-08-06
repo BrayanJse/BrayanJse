@@ -4,7 +4,6 @@
 I’m a **Software Development and Analysis (ADSO) student** with hands-on experience in autonomous and client projects. I specialize in web development and audiovisual content creation.
 
 <div align="center">
-
   <p>
     <a href="#"><img hspace="6" src="./images/javascript.png" alt="banner image"></a>
     <a href="#"><img hspace="6" src="./images/javascript.png" alt="banner image"></a>
@@ -15,7 +14,7 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 ## 💻 Languages
 
 <p align="center">
-  <a href="#"><img hspace="6 src="./images/javascript.png" alt="banner image"></a>
+  <a href="#"><img hspace="6" align="center" src="./images/javascript.png" alt="banner image"></a>
 </p>
 
 
