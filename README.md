@@ -7,6 +7,8 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 
 <div align="center">
   ![image](https://github.com/user-attachments/assets/01d335dd-e354-461b-b9e6-7ada4b07c2f8)
+  ![image](https://github.com/user-attachments/assets/01d335dd-e354-461b-b9e6-7ada4b07c2f8)
+  ![image](https://github.com/user-attachments/assets/01d335dd-e354-461b-b9e6-7ada4b07c2f8)
 </center>
 
 ### More about me:
