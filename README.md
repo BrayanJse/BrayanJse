@@ -14,13 +14,13 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 ## 💻 Languages & Frameworks
 
 <div align="center">
-  <a href="#">
+  <a href="#" style="text-decoration: none;">
     <img hspace="6" align="center" src="./images/javascript.png" alt="banner image">
   </a>
-  <a href="#">
+  <a href="#" style="text-decoration: none;">
     <img hspace="6" align="center" src="./images/react.png" alt="banner image">
   </a>
-  <a href="#">
+  <a href="#" style="text-decoration: none;">
     <img hspace="6" align="center" src="./images/php.png" alt="banner image">
   </a>
 </div>
