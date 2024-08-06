@@ -6,9 +6,9 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 <div align="center">
 
   <p>
-    <a href="#"><img hspace="6 src="./images/javascript.png" alt="banner image"></a>
-    <a href="#"><img hspace="6 src="./images/javascript.png" alt="banner image"></a>
-    <a href="#"><img hspace="6 src="./images/javascript.png" alt="banner image"></a>
+    <a href="#"><img hspace="6" src="./images/javascript.png" alt="banner image"></a>
+    <a href="#"><img hspace="6" src="./images/javascript.png" alt="banner image"></a>
+    <a href="#"><img hspace="6" src="./images/javascript.png" alt="banner image"></a>
   </p>
 </div>
 
