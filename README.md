@@ -1,9 +1,11 @@
-# Hi there 👋
-
-I’m a **Software Development and Analysis (ADSO) student** with hands-on experience in autonomous and client projects. I specialize in web development and audiovisual content creation.
-
 <div align="center">
-  <a href=""><img src="./images/image.png" alt="banner image"></a>
+  <img src="./images/image.png" alt="banner image">
+
+  <p>
+    <a href="#"><img hspace="6 src="./images/javascript.png" alt="banner image"></a>
+    <a href="#"><img hspace="6 src="./images/javascript.png" alt="banner image"></a>
+    <a href="#"><img hspace="6 src="./images/javascript.png" alt="banner image"></a>
+  </p>
 </center>
 
 ### More about me:
@@ -17,6 +19,11 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 - **Web Development**: Experienced in HTML, CSS, JavaScript, and related technologies.
 - **Audiovisual Design**: Skilled in creating high-quality visual content.
 
+
+
+
+<!-- # Hi there 👋 -->
+<!-- I’m a **Software Development and Analysis (ADSO) student** with hands-on experience in autonomous and client projects. I specialize in web development and audiovisual content creation. -->
 <!--
 ## Continuous Learning
 
