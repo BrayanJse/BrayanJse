@@ -2,6 +2,8 @@
 
 I’m a **Software Development and Analysis (ADSO) student** with hands-on experience in autonomous and client projects. I specialize in web development and audiovisual content creation.
 
+JavaScript![image](https://github.com/user-attachments/assets/01d335dd-e354-461b-b9e6-7ada4b07c2f8)
+
 ### More about me:
 
 - 📽 **Programming Streams**: I occasionally stream programming sessions on [Twitch](https://twitch.tv/brayanjse).
