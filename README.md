@@ -24,11 +24,11 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-<!-- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square) -->
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+<!-- ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square) -->
 
 #### Looking forward to learn:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
