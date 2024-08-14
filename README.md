@@ -30,6 +30,11 @@ I’m a **Software Development and Analysis (ADSO) student** with hands-on exper
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 
+#### Looking forward to learn:
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=lat-square&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+
 <!-- <div align="center">
   <a href="#" style="text-decoration: none;">
     <img hspace="6" align="center" src="./images/javascript.png" alt="banner image">
